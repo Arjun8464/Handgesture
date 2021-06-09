@@ -1,0 +1,2 @@
+https://teachablemachine.withgoogle.com/models/DwqJKQ6y4/
+- Emotion to emoji
